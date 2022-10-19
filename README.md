@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilharsmann
-- 👀 I’m interested in authorization 
+- 👀 I’m interested in authorization and developer security
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on all things permissions, access control, everything after the username/password screen
 - 📫 How to reach me bill@styra.com or bilharsmann@gmail.com
